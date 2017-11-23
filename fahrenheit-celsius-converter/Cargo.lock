@@ -1,0 +1,4 @@
+[root]
+name = "fahrenheit-celsius-converter"
+version = "0.1.0"
+
